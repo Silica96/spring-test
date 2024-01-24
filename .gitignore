@@ -74,5 +74,5 @@ gradle-app.setting
 ### Gradle Patch ###
 # Java heap dump
 *.hprof
-.setting/*
+.settings/*
 # End of https://www.toptal.com/developers/gitignore/api/gradle,vim,java
